@@ -1,0 +1,13 @@
+autopep8==1.5.4
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+py-notifier==0.1.1
+pycodestyle==2.6.0
+pypiwin32==223
+pywin32==300
+requests==2.25.1
+timeloop==1.0.2
+toml==0.10.2
+urllib3==1.26.2
+win10toast==0.9
