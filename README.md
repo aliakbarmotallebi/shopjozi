@@ -1,1 +1,1 @@
-# shopjozi
+# Desktop Notifier Application Using Python
